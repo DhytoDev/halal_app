@@ -1,0 +1,1 @@
+library halal_core;
